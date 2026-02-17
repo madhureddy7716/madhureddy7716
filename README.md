@@ -71,7 +71,10 @@ Focused on performance, usability, and real-world problem solving.
 
 <!-- ====== SNAKE ANIMATION ====== -->
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/madhureddy7716/madhureddy7716/output/github-contribution-grid-snake.svg" />
+</p>
+
 # 🏆 EXPERIENCE
 
 ### Software Testing Intern  
