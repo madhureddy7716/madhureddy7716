@@ -8,21 +8,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madhureddy7716/madhureddy7716/main/assets/hero.gif" width="100%" />
-</p>
 
-<h1 align="center">Madhu Dakkata</h1>
-
-<p align="center">
-Software Engineer | Full Stack Developer
-</p>
-
-<p align="center">
-💡 Engineering reliable systems with simplicity and precision.
-</p>
-
----
 
 
 
