@@ -47,13 +47,21 @@ Focused on performance, usability, and real-world problem solving.
 
 ---
 
-# ⚙️ CORE STACK
+# ⚙️ TECHNICAL SKILLS
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,mongodb,git,github" />
 </p>
 
 ---
+
+### 🛠 Expertise Areas
+
+**Backend:** Django, Flask, REST APIs  
+**Frontend:** React.js, HTML, CSS, Tailwind  
+**Database:** MySQL, MongoDB  
+**Version Control:** Git & GitHub  
+
 
 # 📊 GITHUB SYSTEM STATUS
 
