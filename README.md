@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:8e0c2a,100:ff003c&text=Madhu%20Dakkata&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=22" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:8e0c2a&height=160&text=Madhu%20Dakkata&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&section=header" />
 
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
