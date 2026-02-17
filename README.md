@@ -1,11 +1,4 @@
 
-<p align="center">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh6MDg1d3hxY2poOXBuZjRqbDdxaXFxejBkNnYwcnNibzJyaXJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-    width="900" 
-    height="350"
-  />
-</p>
 
 
 
@@ -26,6 +19,14 @@
 </p>
 
 ---
+<p align="center">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh6MDg1d3hxY2poOXBuZjRqbDdxaXFxejBkNnYwcnNibzJyaXJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+    width="900" 
+    height="350"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/DEVELOPER_MODE-ACTIVE-ff4d6d?style=for-the-badge"/>
