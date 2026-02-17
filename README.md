@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh6MDg1d3hxY2poOXBuZjRqbDdxaXFxejBkNnYwcnNibzJyaXJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/madhureddy7716/madhureddy7716/main/assets/hero.gif" width="100%" />
 </p>
