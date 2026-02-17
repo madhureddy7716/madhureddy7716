@@ -49,37 +49,77 @@ Focused on performance, usability, and real-world problem solving.
 
 # ⚙️ TECHNICAL SKILLS
 
-<h2 align="center">🛠 Tech Stack</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+
+<!-- ===== Programming ===== -->
+<h3 align="center">💻 Programming</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
 </p>
 
+<p align="center">
+  <sub><b>Python • JavaScript • HTML • CSS</b></sub>
+</p>
+
+<br>
+
+<!-- ===== Frameworks ===== -->
 <h3 align="center">⚙️ Frameworks & Libraries</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=flask" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
 </p>
 
+<p align="center">
+  <sub><b>Django • Flask • React • Bootstrap • Tailwind</b></sub>
+</p>
+
+<br>
+
+<!-- ===== Databases ===== -->
 <h3 align="center">🗄 Databases</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
 </p>
 
-<h3 align="center">🔧 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
+  <sub><b>MySQL • MongoDB</b></sub>
 </p>
+
+<br>
+
+<!-- ===== Tools ===== -->
+<h3 align="center">🔧 Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+</p>
+
+<p align="center">
+  <sub><b>Git • GitHub • VS Code • REST APIs</b></sub>
+</p>>
 
 
 
@@ -87,25 +127,20 @@ Focused on performance, usability, and real-world problem solving.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=madhureddy7716&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=madhureddy7716&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" 
     height="180"
   />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhureddy7716&theme=radical&hide_border=true&background=0d1117" />
+  <img 
+    src="https://streak-stats.demolab.com?user=madhureddy7716&theme=radical&hide_border=true&background=0d1117" 
+    height="180"
+  />
 </p>
 
 ---
 
 
 
-<!-- ====== SNAKE ANIMATION ====== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madhureddy7716/madhureddy7716/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 # 🏆 EXPERIENCE
