@@ -1,33 +1,39 @@
-<!-- ===================== CLEAN ENGINEER HEADER ===================== -->
+<!-- =================== PRO DARK HACKER HEADER =================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:8e0c2a&height=180&section=header&text=MADHU%20DAKKATA&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:8e0c2a,100:ff003c&height=230&section=header&text=MADHU%20DAKKATA&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Driven%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&color=FF003C&center=true&vCenter=true&width=700&lines=Designing+Scalable+Systems;Building+Clean+Web+Architecture;React+%7C+Django+%7C+REST+APIs;Focused+on+Performance+%26+Maintainability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=FF003C&center=true&vCenter=true&width=750&lines=Initializing+System...;Full+Stack+Engineering+Core+Loaded;React+%7C+Django+%7C+REST+APIs;Scalable+Architecture+Mode+Enabled;🚀+Build+Mode+ON" />
 </p>
 
 ---
 
-# 👨‍💻 ABOUT
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER_MODE-ACTIVE-ff003c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_CORE-ONLINE-8e0c2a?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AVAILABLE_FOR_WORK-YES-0f9d58?style=for-the-badge"/>
+</p>
 
-```yaml
-role: Software Engineer
-location: Hyderabad, India
-specialization:
-  - Frontend Engineering (React)
-  - Backend Systems (Django / Flask)
-  - REST API Architecture
-  - Database Design
-status: Open to Entry-Level Software Engineering Roles
+---
+
+# 🧠 ABOUT
+
+```bash
+> Role      : Full Stack Developer
+> Location  : Hyderabad, India
+> Focus     : Scalable Web Systems + Clean UI
+> Status    : Open to Opportunities
 ```
 
-I build scalable, maintainable web systems with a strong focus on clean architecture, performance optimization, and long-term reliability.
+I build performance-driven web applications with modern UI systems  
+and secure backend architecture. Focused on clean code, scalability,  
+and real-world digital solutions.
 
 ---
 
-# 🛠 TECH STACK
+# ⚙️ TECHNOLOGY STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,mongodb,git,github&perline=6" />
@@ -35,48 +41,48 @@ I build scalable, maintainable web systems with a strong focus on clean architec
 
 ---
 
-# 📊 ENGINEERING METRICS
+# 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhureddy7716&show_icons=true&theme=transparent&hide_border=true&title_color=ff003c&icon_color=ff003c"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=madhureddy7716&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff003c&icon_color=ff003c"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhureddy7716&theme=transparent&hide_border=true&ring=ff003c&fire=ff003c"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhureddy7716&theme=radical&hide_border=true&background=0d1117&ring=ff003c&fire=ff003c"/>
 </p>
 
 ---
 
-# 💼 EXPERIENCE
+# 🏆 EXPERIENCE
 
 ### Software Testing Intern  
 **Color Moon Technologies**
 
-- Performed structured manual testing & defect reporting  
-- Collaborated with developers during debugging cycles  
-- Improved application stability and reliability  
+- Performed structured manual testing & reporting  
+- Assisted developers in debugging workflows  
+- Improved application stability & performance  
 
 ---
 
-# 🚀 ENGINEERING FOCUS AREAS
+# 🛠 DEVELOPMENT AREAS
 
-- System Architecture & Backend Logic  
-- API Development & Integration  
-- Performance Optimization  
-- Database Modeling  
-- UI Engineering with React  
-
----
-
-# 🏆 SELECTED ACHIEVEMENTS
-
-- Smart India Hackathon 2023 Participant  
-- Built Full-Stack Travel Platform  
-- Developed Secure ATM Simulation System  
+🔴 Frontend Engineering  
+🔴 Backend Architecture  
+🔴 REST API Integration  
+🔴 Database Optimization  
+🔴 Performance Engineering  
 
 ---
 
-# 🤝 LET’S CONNECT
+# 🏅 ACHIEVEMENTS
+
+- 🥇 Smart India Hackathon 2023 Participant  
+- 🌍 Built Full-Stack Travel Platform  
+- 🔐 Developed Secure ATM Simulation System  
+
+---
+
+# 🌐 CONNECT
 
 <p align="center">
 <a href="https://github.com/madhureddy7716">
@@ -84,16 +90,21 @@ I build scalable, maintainable web systems with a strong focus on clean architec
 </a>
 
 <a href="https://www.linkedin.com/in/madhu-dakkata">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8e0c2a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:madhudakkata4021@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-ff003c?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Focused on building production-ready software systems.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,100:0f0f0f&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <b>⚡ INTERFACE ACTIVE • BUILD MODE ON • 2026 ⚡</b><br>
+  Turning ideas into scalable digital solutions
 </p>
