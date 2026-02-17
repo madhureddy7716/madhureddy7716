@@ -49,18 +49,38 @@ Focused on performance, usability, and real-world problem solving.
 
 # ⚙️ TECHNICAL SKILLS
 
+<h2 align="center">🛠 Tech Stack</h2>
+
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
 </p>
 
----
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
 
-### 🛠 Expertise Areas
+<h3 align="center">🗄 Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-**Backend:** Django, Flask, REST APIs  
-**Frontend:** React.js, HTML, CSS, Tailwind  
-**Database:** MySQL, MongoDB  
-**Version Control:** Git & GitHub  
+<h3 align="center">🔧 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</p>
+
 
 
 # 📊 GITHUB SYSTEM STATUS
