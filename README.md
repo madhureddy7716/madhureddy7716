@@ -75,6 +75,7 @@ Focused on performance, usability, and real-world problem solving.
   <img src="https://raw.githubusercontent.com/madhureddy7716/madhureddy7716/output/github-contribution-grid-snake.svg" />
 </p>
 
+
 # 🏆 EXPERIENCE
 
 ### Software Testing Intern  
