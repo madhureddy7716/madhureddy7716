@@ -123,6 +123,14 @@ Color Moon Technologies
 ---
 
 <p align="center">
+  <img 
+    src="https://t4.ftcdn.net/jpg/08/70/32/31/360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg" 
+    width="900" 
+    height="350"
+  />
+</p>
+
+<p align="center">
   <b>INTERFACE ACTIVE • BUILD MODE ON • 2026</b>
 </p>
 
