@@ -1,119 +1,85 @@
-<!-- ====== HEADER BANNER ====== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:8e0c2a&height=160&text=Madhu%20Dakkata&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&section=header" />
+
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0c2a,100:ff4d6d&height=200&section=header&text=MADHU%20DAKKATA&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+Building scalable web systems with clean architecture and performance-driven design.
 </p>
 
-<!-- ====== TYPING ANIMATION ====== -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Django+%7C+REST+APIs;Clean+UI+%2B+Scalable+Backend;Build+Mode+Active+🚀" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DEVELOPER_MODE-ACTIVE-ff4d6d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_NOW-7cffb2?style=for-the-badge"/>
+💡 <i>"Engineering reliable systems with simplicity and precision."</i>
 </p>
 
 ---
 
-# 🧠 ABOUT ME
-
-Building responsive, scalable web applications with clean UI and efficient backend architecture.  
-Focused on performance, usability, and real-world problem solving.
+## 👨‍💻 About Me
 
 - 🎓 Computer Science Graduate  
-- 🚀 Seeking Entry-Level Opportunities  
-- 💡 Passionate about building & learning  
+- 🧠 Backend & System Architecture Focus  
+- ⚡ Strong in React, Django & REST APIs  
 - 📍 Hyderabad, India  
+- 🎯 Seeking Entry-Level Software Engineering Roles  
 
 ---
 
-# ⚙️ CORE STACK
+## 🧠 Technical Skills
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,tailwind,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,react,js,html,css,mysql,mongodb,git,github" />
 </p>
 
 ---
 
-# 📊 GITHUB SYSTEM STATUS
+## 🛠 Tools & Environment
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhureddy7716&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhureddy7716&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,postman" />
 </p>
 
 ---
 
-# 🏆 EXPERIENCE
+## 📊 Engineering Activity
 
-### Software Testing Intern  
-Color Moon Technologies
-
-- Performed manual testing & bug reporting  
-- Assisted developers in debugging  
-- Improved application stability & performance  
-
----
-
-# 🛠 DEVELOPMENT AREAS
-
-🔴 Frontend Engineering  
-🔴 Backend Architecture  
-🔴 REST API Integration  
-🔴 Database Design  
-🔴 Performance Optimization  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhureddy7716&show_icons=true&theme=transparent&title_color=ff003c&icon_color=ff003c&text_color=ffffff&hide_border=true" height="165"/>
+  
+  <img src="https://streak-stats.demolab.com?user=madhureddy7716&theme=transparent&ring=ff003c&fire=ff003c&currStreakLabel=ff003c&hide_border=true" height="165"/>
+</p>
 
 ---
 
-# 🏅 ACHIEVEMENTS
+## 🚀 Core Engineering Areas
+
+- Backend API Design  
+- Frontend UI Architecture  
+- Database Modeling  
+- Authentication & Security  
+- Performance Optimization  
+
+---
+
+## 🏆 Achievements
 
 - Smart India Hackathon 2023 Participant  
-- Built full-stack travel platform  
-- Developed secure ATM Simulation System  
+- Built Full-Stack Travel Platform  
+- Developed Secure ATM Simulation System  
 
 ---
 
-# 📡 CONNECT WITH ME
+## 📬 Connect
 
 <p align="center">
-<a href="https://github.com/madhureddy7716">
-<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhu-dakkata">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:madhudakkata4021@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-<!-- ====== SNAKE ANIMATION ====== -->
-
-<p align="center">
-  <img src="https://github.com/madhureddy7716/madhureddy7716/blob/output/github-contribution-grid-snake.svg" />
+  <a href="mailto:madhudakkata4021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/madhu-dakkata">
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/madhureddy7716">
+    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>INTERFACE ACTIVE • BUILD MODE ON • 2026</b>
-</p>
-
-<p align="center">
-  ⚡ Turning ideas into scalable digital solutions ⚡
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d6d,100:8e0c2a&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0c2a,100:0f172a&height=100&section=footer" />
