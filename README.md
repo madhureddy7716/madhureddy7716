@@ -3,19 +3,19 @@
 
 
 
-<p align="center">
-  <img 
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh6MDg1d3hxY2poOXBuZjRqbDdxaXFxejBkNnYwcnNibzJyaXJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
-    width="900" 
-    height="350"
-  />
-</p>
 
 
 <!-- ====== HEADER BANNER ====== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0c2a,100:ff4d6d&height=200&section=header&text=MADHU%20DAKKATA&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTh6MDg1d3hxY2poOXBuZjRqbDdxaXFxejBkNnYwcnNibzJyaXJqZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" 
+    width="900" 
+    height="350"
+  />
 </p>
 
 <!-- ====== TYPING ANIMATION ====== -->
